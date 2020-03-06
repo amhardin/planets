@@ -1,3 +1,6 @@
+#ignore all datafiles
 *.dat
+#don't ignore final datafile
 !final.dat
+#ignore files in results folder
 results/
